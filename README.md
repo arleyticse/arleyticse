@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Arley</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7EF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Apasionado+por+la+IA+y+la+programaci%C3%B3n;Aprendiendo+y+creciendo+cada+d%C3%ADa;Siempre+listo+para+nuevos+retos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7EF&center=true&vCenter=true&width=600&lines=Apasionado+por+la+IA+y+la+programaci%C3%B3n;Aprendiendo+y+creciendo+cada+d%C3%ADa;Siempre+listo+para+nuevos+retos" alt="Typing SVG" />
   </a>
 </p>
 
